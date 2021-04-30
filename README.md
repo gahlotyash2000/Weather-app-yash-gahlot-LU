@@ -40,12 +40,12 @@ You can just simply click on the date for which you need to check the weather fo
 
 
 
-**1.CONFIGURATION INSTRUCTIONS:
+**1.CONFIGURATION INSTRUCTIONS:**
 
 For this application to run properly on your system you would require the latest version of Android Studio.
 You must be having latest SDK file. I have used Android API 30 platform.
 
-**2.INSTALLATION INSTRUCTIONS:
+**2.INSTALLATION INSTRUCTIONS:**
 
 For installation, first you would have to download the zip file from my repository. Then extract all the files using any zip extractor. 
 Now, open your Android Studio App. There, go to Files-> New-> Import Project. 
@@ -53,7 +53,7 @@ After that you should be able to select your desired folder from there and your 
 
 ![installation proceess](https://user-images.githubusercontent.com/83332481/116744031-64f9e300-aa17-11eb-834f-ad5974a053fc.PNG)
 
-**3.MANIFEST:
+**3.MANIFEST:**
 
 
 ![manifest1](https://user-images.githubusercontent.com/83332481/116744573-1ef14f00-aa18-11eb-9df3-0f4dc655e63d.PNG)
@@ -62,7 +62,7 @@ After that you should be able to select your desired folder from there and your 
 ![manifest2](https://user-images.githubusercontent.com/83332481/116744578-20bb1280-aa18-11eb-8bb0-113ab3c83a4e.PNG)
 
 
-**4.TROUBLRSHOOTING TIPS:
+**4.TROUBLRSHOOTING TIPS:**
 
 Firstly, make sure sure that there are no errors in writting the program.
 
@@ -72,7 +72,7 @@ Here is also a link https://developer.android.com/studio/troubleshoot which woul
 
 
 
-**5.BUG LIST:
+**5.BUG LIST:**
 
 To avoid any kind of bugs you have to ensure to use the latest version of Android Studio.
 
@@ -81,7 +81,7 @@ Here is a link which would be helpful in reporting a bug
 https://developer.android.com/studio/report-bugs.html
 
 
-**6. ACKOWLEDGEMENT
+**6. ACKOWLEDGEMENT**
 
 I want to thank Dr.Trevor Tomesh, As he provided me with in-depth knowledge about Android programming,
 how to build a mobile app and various important fatcs and uses of android studio.
@@ -91,7 +91,7 @@ I express my heartfull indebtness and owe a deep sense of gratitude to my profes
 Dr. Trevor Tomesh of Lakehead University(Thunder Bay) for his excellent inspiration in completion of this project and throughout the course.
 
 
-**7.CONTACT INFORMATION:
+**7.CONTACT INFORMATION:**
 
 If you have any concerns regarding the app or facing any errors while installing or any other problem, you can contact me via email(provided below).
 
@@ -99,7 +99,7 @@ Name: Yash Gahlot
 
 email ID: yashgahlot197@gmail.com
 
-**8.OUTPUT:
+**8.OUTPUT:**
 
 
 ![InkedScreenshot_1619813208_LI](https://user-images.githubusercontent.com/83332481/116749117-169c1280-aa1e-11eb-80d5-7aac7c5d70ef.jpg)
