@@ -64,13 +64,13 @@ After that you should be able to select your desired folder from there and your 
 ![manifest2](https://user-images.githubusercontent.com/83332481/116744578-20bb1280-aa18-11eb-8bb0-113ab3c83a4e.PNG)
 
 
-**4.TROUBLRSHOOTING TIPS:**
+**4.TROUBLESHOOTING TIPS:**
 
 Firstly, make sure sure that there are no errors in writting the program.
 
 Second, you should have Android 11.0(R) package installed and must be using the Android Studio 4.1.2 and not any older one.
 
-Here is also a link https://developer.android.com/studio/troubleshoot which would help you to get more clear idea if you are facing any problem.
+Here is also a link https://developer.android.com/studio/troubleshoot of troubleshooting tips from where you can take help if you face any problem.
 
 
 
@@ -89,7 +89,7 @@ I want to thank Dr.Trevor Tomesh, As he provided me with in-depth knowledge abou
 how to build a mobile app and various important fatcs and uses of android studio.
 
 It is with immense gratitude that I acknowledge the support and help of my Professor.
-I express my heartfull indebtness and owe a deep sense of gratitude to my professor
+I express my heartfull indebtness to my professor
 Dr. Trevor Tomesh of Lakehead University(Thunder Bay) for his excellent inspiration in completion of this project and throughout the course.
 
 
