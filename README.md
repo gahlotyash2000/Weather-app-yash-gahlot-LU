@@ -89,7 +89,7 @@ I want to thank Dr.Trevor Tomesh, As he provided me with in-depth knowledge abou
 how to build a mobile app and various important facts and uses of android studio.
 
 It is with immense gratitude that I acknowledge the support and help of my Professor.
-I am greatful to my professor
+I am grateful to my professor
 Dr. Trevor Tomesh of Lakehead University(Thunder Bay) for his excellent inspiration in completion of this project and throughout the course.
 
 
